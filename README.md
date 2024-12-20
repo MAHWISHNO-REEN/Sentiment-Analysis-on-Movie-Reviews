@@ -1,4 +1,3 @@
- Sentiment-Analysis-on-Movie-Reviews
 # Sentiment Analysis on Movie Reviews 🎥📊
 This project performs Sentiment Analysis on movie reviews using the IMDB Movie Reviews Dataset. The model classifies reviews as positive or negative based on their content. It includes data preprocessing, model training using Naive Bayes, and a Streamlit-based web interface for predictions.
 
