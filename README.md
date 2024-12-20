@@ -8,9 +8,9 @@ Ensure you have the following installed:
 
 Python (≥ 3.8 recommended)
 Necessary libraries (install via pip install -r requirements.txt)
-Download the dataset:
 
-IMDB Movie Reviews Dataset
+Download the dataset:
+- [IMDB Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 # 📝 Notes
 Ensure the dataset is in CSV format with columns review (text) and sentiment (label: positive or negative).
